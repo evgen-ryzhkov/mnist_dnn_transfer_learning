@@ -1,0 +1,6 @@
+MODEL_1_FILE_NAME = 'model_1.h5'
+MODEL_2_FILE_NAME = 'model_2.h5'
+WEIGHTS_FILE_NAME = 'model_weights.h5'
+ARCHITECTURE_FILE_NAME = 'model_architecture.json'
+MODELS_DIR = '../models/'
+lOGS_DIR = '../logs/'
